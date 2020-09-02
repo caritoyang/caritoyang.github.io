@@ -1,0 +1,12 @@
+.bg-image {
+	width: 100%;
+}
+
+
+/* #### MOBILE #### */
+@media screen and (max-width: 414px){
+	.bg-image {
+		height: 100%;
+		width: auto;
+	}
+}
